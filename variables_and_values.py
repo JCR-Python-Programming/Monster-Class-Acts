@@ -1,8 +1,9 @@
 # Create a Python file that only stores variables and their values, so we can import
-# all these variables and values into our Class_Acts.py Python file and use them
-# within our Class_Acts.py Python file through this variables_and_values.py Python
-# file here. We can take our variables and their values into our Class_Acts.py Python
-# file, without having them physically inside the Class_Acts.py Python file.
+# all these variables and values into our Monster_Class_Act.py Python file and use
+# them within our Monster_Class_Act.py Python file through this variables_and_
+# values.py Python file here. We can take our variables and their values into our
+# Monster_Class_Act.py Python file, without having them physically inside the
+# Monster_Class_Act.py Python file.
 
 main_class = (
     'This is an instance of a main class object with three attribute properties value 1',
