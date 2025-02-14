@@ -3,7 +3,7 @@
 
 # The asterisk ( * ) imports EVERYTHING from within the variables_and_values.py Python
 # file so you don't have to worry about how many items from a file, or files you need to
-# import into the Monster_Class_Acts.py Python program file, which is this one here.
+# import into the Monster_Class_Act.py Python program file, which is this file here.
 
 from variables_and_values import*  # asterisk *
 
