@@ -240,25 +240,25 @@ return_value = (
     Super_sub_class6_new_attribute_properties.return_function(),
     Super_sub_class7_new_attribute_properties.return_function())
 
-print(f'\n{return_value[0][0]}\n\n{a.attribute1}')
+print(f'\n{return_value[0][0]}\n\n{a.attribute3}')
 
-print(f'\n{return_value[0][1]}\n\n{b.attribute1}')
+print(f'\n{return_value[0][1]}\n\n{b.attribute3}')
 
-print(f'\n{return_value[0][2]}\n\n{c.attribute1}')
+print(f'\n{return_value[0][2]}\n\n{c.attribute3}')
 
-print(f'\n{return_value[0][3]}\n\n{d.attribute1}')
+print(f'\n{return_value[0][3]}\n\n{d.attribute4}')
 
-print(f'\n{return_value[0][4]}\n\n{e.attribute1}')
+print(f'\n{return_value[0][4]}\n\n{e.attribute5}')
 
-print(f'\n{return_value[0][5]}\n\n{f.attribute1}')
+print(f'\n{return_value[0][5]}\n\n{f.attribute6}')
 
-print(f'\n{return_value[0][6]}\n\n{g.attribute1}')
+print(f'\n{return_value[0][6]}\n\n{g.attribute7}')
 
-print(f'\n{return_value[0][7]}\n\n{h.attribute1}')
+print(f'\n{return_value[0][7]}\n\n{h.attribute8}')
 
-print(f'\n{return_value[0][8]}\n\n{i.attribute1}')
+print(f'\n{return_value[0][8]}\n\n{i.attribute9}')
 
-print(f'\n{return_value[0][9]}\n\n{j.attribute1}')
+print(f'\n{return_value[0][9]}\n\n{j.attribute10}')
 
 # I am almost a complete Walking Human Computer Science Research
 # Laboratory Machine on Two Legs... 😁
