@@ -1,4 +1,4 @@
-# Let's create a large Python module for a monster class, along with its sub classes
+# Let's create a large Python module for a monster class act, along with its sub classes
 # and super sub class acts alike.
 
 # The asterisk ( * ) imports EVERYTHING from within the variables_and_values.py Python
